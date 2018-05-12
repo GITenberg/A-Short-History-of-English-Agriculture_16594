@@ -1,0 +1,27 @@
+_repo: A-Short-History-of-English-Agriculture_16594
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Curtler, W. H. R. (William Henry Ricketts)
+    alias: Curtler, William Henry Ricketts
+    birthdate: 1862
+    deathdate: 1925
+    gutenberg_agent_id: '6810'
+    url: http://www.gutenberg.org/2009/agents/6810
+description: ''
+gutenberg_issued: '2005-08-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16594'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Agriculture -- England -- History'
+- !lcc 'S'
+title: A Short History of English Agriculture
+url: http://www.gutenberg.org/ebooks/16594
